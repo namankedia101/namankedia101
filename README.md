@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development, MERN**
 
-- 📫 How to reach me **kediaarts@gmail.com**
+- 📫 How to reach me **naman.ked.11@gmail.com**
 
 - ⚡ Fun fact **I think I am a rapper🎶**
 
